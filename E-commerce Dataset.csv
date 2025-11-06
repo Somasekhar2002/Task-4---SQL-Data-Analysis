@@ -1,0 +1,120 @@
+﻿customer_id,first_name,last_name,gender,country,product_id,product_name,category,quantity,unit_price,order_id,order_status,payment_method,rating,review_text
+CUST2353,Erica,Oliver,Female,Canada,PROD108,Fitbit Versa 3,Electronics,3,229,ORD10000,Pending,Credit Card,2,good
+CUST4463,Christopher,White,Male,China,PROD103,Levi's Jeans,Apparel,4,59,ORD10001,Pending,PayPal,2,average
+CUST4512,Spencer,Foster,Male,Germany,PROD111,Lego Star Wars Set,Toys,2,59,ORD10002,Delivered,Cash on Delivery,5,good
+CUST5711,Jessica,Harris,Male,France,PROD107,Dyson Vacuum,Home & Kitchen,4,399,ORD10003,Delivered,Cash on Delivery,2,very good
+CUST1296,Amy,Johnson,Female,Brazil,PROD105,Adidas Running Shoes,Apparel,1,110,ORD10004,Returned,Cash on Delivery,1,very good
+CUST2790,Shelby,Sutton,Other,Canada,PROD108,Fitbit Versa 3,Electronics,5,229,ORD10005,Returned,PayPal,3,very good
+CUST2442,Jennifer,Baxter,Female,France,PROD106,Instant Pot,Home & Kitchen,1,99,ORD10006,Returned,Credit Card,4,very good
+CUST2451,Barbara,Hansen,Female,UK,PROD103,Levi's Jeans,Apparel,2,59,ORD10007,Pending,Credit Card,1,very good
+CUST2364,Mary,Guzman,Female,China,PROD102,Sony Headphones,Electronics,5,199,ORD10008,Shipped,Credit Card,3,bad
+CUST4713,Richard,Bell,Other,Brazil,PROD107,Dyson Vacuum,Home & Kitchen,4,399,ORD10009,Cancelled,PayPal,5,very good
+CUST1469,Joshua,Graham,Male,Germany,PROD107,Dyson Vacuum,Home & Kitchen,4,399,ORD10010,Returned,Credit Card,2,very good
+CUST5953,Audrey,Osborne,Male,Japan,PROD113,Wilson Tennis Racket,Sports,2,149,ORD10011,Returned,Credit Card,4,good
+CUST1438,Michelle,Vargas,Male,UK,PROD109,Kindle Paperwhite,Books,1,129,ORD10012,Shipped,Credit Card,1,very bad
+CUST2488,Christy,Davis,Female,China,PROD100,iPhone 14,Electronics,2,999,ORD10013,Delivered,Credit Card,1,very good
+CUST1413,Anthony,Best,Female,China,PROD112,Barbie Dreamhouse,Toys,4,199,ORD10014,Cancelled,Credit Card,3,very bad
+CUST2160,Anna,Wyatt,Other,USA,PROD105,Adidas Running Shoes,Apparel,1,110,ORD10015,Shipped,Credit Card,3,bad
+CUST3830,Cindy,Day,Female,Japan,PROD109,Kindle Paperwhite,Books,5,129,ORD10016,Cancelled,Credit Card,1,good
+CUST4174,Daniel,Gray,Other,China,PROD113,Wilson Tennis Racket,Sports,2,149,ORD10017,Delivered,PayPal,2,good
+CUST3281,Susan,Torres,Other,France,PROD110,Harry Potter Box Set,Books,1,80,ORD10018,Delivered,Cash on Delivery,1,very bad
+CUST3410,Kenneth,Garner,Female,Canada,PROD108,Fitbit Versa 3,Electronics,3,229,ORD10019,Cancelled,Cash on Delivery,4,bad
+CUST3147,Ronnie,Mcbride,Male,India,PROD112,Barbie Dreamhouse,Toys,4,199,ORD10020,Pending,Cash on Delivery,4,bad
+CUST4051,Edward,Molina,Female,Australia,PROD112,Barbie Dreamhouse,Toys,5,199,ORD10021,Returned,PayPal,1,bad
+CUST1089,Randy,Johnson,Male,Canada,PROD104,Nike Air Max,Apparel,4,120,ORD10022,Delivered,PayPal,1,average
+CUST2314,Danielle,Jenkins,Other,France,PROD109,Kindle Paperwhite,Books,2,129,ORD10023,Pending,Cash on Delivery,1,good
+CUST5205,Robert,Sanchez,Female,Brazil,PROD100,iPhone 14,Electronics,2,999,ORD10024,Pending,Cash on Delivery,5,very bad
+CUST2997,Amanda,Martinez,Female,USA,PROD105,Adidas Running Shoes,Apparel,3,110,ORD10025,Pending,Cash on Delivery,2,average
+CUST2945,Vickie,Brown,Other,Germany,PROD109,Kindle Paperwhite,Books,1,129,ORD10026,Returned,Cash on Delivery,4,average
+CUST3650,Kelly,Weber,Male,France,PROD101,Samsung Galaxy S23,Electronics,3,899,ORD10027,Shipped,Cash on Delivery,4,good
+CUST5755,Todd,Dixon,Male,Brazil,PROD108,Fitbit Versa 3,Electronics,5,229,ORD10028,Pending,Credit Card,2,very good
+CUST2895,Lawrence,Hines,Female,USA,PROD102,Sony Headphones,Electronics,5,199,ORD10029,Cancelled,Credit Card,5,very good
+CUST3589,Joseph,Frye,Female,UK,PROD101,Samsung Galaxy S23,Electronics,1,899,ORD10030,Returned,PayPal,2,very bad
+CUST5161,Alison,Curtis,Male,France,PROD107,Dyson Vacuum,Home & Kitchen,4,399,ORD10031,Returned,PayPal,4,bad
+CUST2370,Kimberly,Stevenson,Female,UK,PROD105,Adidas Running Shoes,Apparel,4,110,ORD10032,Cancelled,Credit Card,1,very good
+CUST4430,Michael,Thomas,Male,India,PROD109,Kindle Paperwhite,Books,3,129,ORD10033,Returned,Credit Card,5,very bad
+CUST3021,Mitchell,Rogers,Other,Australia,PROD101,Samsung Galaxy S23,Electronics,4,899,ORD10034,Returned,Cash on Delivery,3,good
+CUST1182,John,Jacobs,Male,UK,PROD113,Wilson Tennis Racket,Sports,3,149,ORD10035,Cancelled,PayPal,5,average
+CUST4791,David,Ford,Female,Canada,PROD102,Sony Headphones,Electronics,1,199,ORD10036,Delivered,Cash on Delivery,3,good
+CUST3310,Christopher,Fernandez,Male,France,PROD100,iPhone 14,Electronics,2,999,ORD10037,Returned,PayPal,1,bad
+CUST3661,Edward,Ford,Female,Germany,PROD100,iPhone 14,Electronics,4,999,ORD10038,Cancelled,Credit Card,2,very good
+CUST1500,Jill,Smith,Other,Brazil,PROD104,Nike Air Max,Apparel,3,120,ORD10039,Shipped,PayPal,1,good
+CUST5684,Kyle,Mills,Male,Australia,PROD103,Levi's Jeans,Apparel,5,59,ORD10040,Pending,Credit Card,2,good
+CUST1186,Leroy,Cordova,Male,Japan,PROD109,Kindle Paperwhite,Books,4,129,ORD10041,Shipped,PayPal,4,very bad
+CUST1241,Derrick,Turner,Male,UK,PROD106,Instant Pot,Home & Kitchen,2,99,ORD10042,Pending,Cash on Delivery,5,bad
+CUST4082,Kristi,Jennings,Female,Australia,PROD108,Fitbit Versa 3,Electronics,4,229,ORD10043,Returned,PayPal,1,very good
+CUST3728,Heather,Butler,Female,France,PROD103,Levi's Jeans,Apparel,1,59,ORD10044,Delivered,Cash on Delivery,2,good
+CUST1742,Catherine,Villegas,Other,China,PROD112,Barbie Dreamhouse,Toys,1,199,ORD10045,Returned,Cash on Delivery,1,average
+CUST3349,Travis,Proctor,Other,Brazil,PROD101,Samsung Galaxy S23,Electronics,1,899,ORD10046,Pending,Cash on Delivery,4,good
+CUST4751,Tyler,Martin,Male,USA,PROD112,Barbie Dreamhouse,Toys,3,199,ORD10047,Cancelled,Credit Card,1,average
+CUST2954,Maria,Moore,Female,China,PROD110,Harry Potter Box Set,Books,1,80,ORD10048,Returned,Credit Card,3,very good
+CUST4905,Betty,Thornton,Other,Canada,PROD103,Levi's Jeans,Apparel,2,59,ORD10049,Delivered,Credit Card,3,very bad
+CUST4613,Jennifer,Snyder,Female,China,PROD107,Dyson Vacuum,Home & Kitchen,5,399,ORD10050,Pending,Cash on Delivery,4,bad
+CUST1209,Jeffrey,Hicks,Female,Germany,PROD108,Fitbit Versa 3,Electronics,2,229,ORD10051,Returned,Cash on Delivery,3,good
+CUST5685,Eugene,Long,Female,Japan,PROD108,Fitbit Versa 3,Electronics,1,229,ORD10052,Cancelled,PayPal,3,bad
+CUST2016,Evan,Gonzales,Female,Japan,PROD111,Lego Star Wars Set,Toys,5,59,ORD10053,Pending,Credit Card,2,very bad
+CUST5282,Sean,Davis,Male,India,PROD102,Sony Headphones,Electronics,5,199,ORD10054,Pending,Cash on Delivery,3,bad
+CUST5144,Zachary,Johnston,Other,USA,PROD100,iPhone 14,Electronics,5,999,ORD10055,Delivered,Credit Card,3,good
+CUST2871,Jon,Flynn,Female,France,PROD112,Barbie Dreamhouse,Toys,2,199,ORD10056,Shipped,Cash on Delivery,3,average
+CUST4853,Alex,Johnston,Female,UK,PROD108,Fitbit Versa 3,Electronics,2,229,ORD10057,Returned,Credit Card,3,very bad
+CUST3810,Bryce,White,Female,Germany,PROD105,Adidas Running Shoes,Apparel,4,110,ORD10058,Pending,Cash on Delivery,2,very bad
+CUST4294,Sherri,Houston,Female,India,PROD100,iPhone 14,Electronics,2,999,ORD10059,Delivered,Credit Card,3,very good
+CUST3033,Dawn,Adams,Male,Japan,PROD107,Dyson Vacuum,Home & Kitchen,3,399,ORD10060,Returned,Credit Card,1,very bad
+CUST3784,John,Young,Male,Canada,PROD112,Barbie Dreamhouse,Toys,4,199,ORD10061,Shipped,Cash on Delivery,5,good
+CUST2808,Jason,Larson,Other,USA,PROD110,Harry Potter Box Set,Books,1,80,ORD10062,Returned,Credit Card,5,very good
+CUST2357,Kimberly,Morgan,Male,Canada,PROD114,Yoga Mat,Sports,2,25,ORD10063,Pending,PayPal,1,bad
+CUST2617,Derrick,Garcia,Female,UK,PROD102,Sony Headphones,Electronics,3,199,ORD10064,Delivered,Credit Card,2,very bad
+CUST4265,Joshua,Lewis,Male,Brazil,PROD106,Instant Pot,Home & Kitchen,1,99,ORD10065,Delivered,Cash on Delivery,5,very good
+CUST3414,Amanda,Fernandez,Other,Japan,PROD105,Adidas Running Shoes,Apparel,4,110,ORD10066,Pending,PayPal,1,average
+CUST3933,Rachel,Thompson,Female,France,PROD113,Wilson Tennis Racket,Sports,2,149,ORD10067,Pending,Cash on Delivery,2,very good
+CUST3963,Nancy,Johnson,Female,India,PROD113,Wilson Tennis Racket,Sports,5,149,ORD10068,Returned,Cash on Delivery,1,good
+CUST3029,Laura,Lopez,Female,Japan,PROD103,Levi's Jeans,Apparel,2,59,ORD10069,Pending,Credit Card,2,very good
+CUST2383,Rebecca,Thomas,Male,Germany,PROD105,Adidas Running Shoes,Apparel,3,110,ORD10070,Pending,Cash on Delivery,2,very good
+CUST1138,Sarah,Reilly,Female,France,PROD113,Wilson Tennis Racket,Sports,3,149,ORD10071,Returned,Cash on Delivery,3,good
+CUST4400,Patricia,Tanner,Female,Australia,PROD106,Instant Pot,Home & Kitchen,4,99,ORD10072,Cancelled,Cash on Delivery,3,bad
+CUST1693,Jason,Miller,Other,Canada,PROD102,Sony Headphones,Electronics,3,199,ORD10073,Shipped,PayPal,1,bad
+CUST1371,Antonio,Stevenson,Female,USA,PROD105,Adidas Running Shoes,Apparel,5,110,ORD10074,Returned,Cash on Delivery,4,very good
+CUST5445,Jennifer,Wilson,Other,Japan,PROD112,Barbie Dreamhouse,Toys,1,199,ORD10075,Cancelled,PayPal,1,good
+CUST1539,Cheryl,Mccarthy,Female,China,PROD105,Adidas Running Shoes,Apparel,2,110,ORD10076,Shipped,Credit Card,3,very bad
+CUST1892,Renee,Rivers,Female,Japan,PROD103,Levi's Jeans,Apparel,3,59,ORD10077,Cancelled,Credit Card,5,average
+CUST5088,Dean,Clark,Other,Brazil,PROD103,Levi's Jeans,Apparel,3,59,ORD10078,Pending,PayPal,2,very good
+CUST3422,Jeffrey,Stevens,Female,China,PROD108,Fitbit Versa 3,Electronics,3,229,ORD10079,Returned,Credit Card,4,good
+CUST2079,Alexander,Baker,Other,Brazil,PROD111,Lego Star Wars Set,Toys,5,59,ORD10080,Returned,Credit Card,5,very good
+CUST1624,Laura,Villa,Female,Canada,PROD109,Kindle Paperwhite,Books,4,129,ORD10081,Returned,Cash on Delivery,4,average
+CUST4048,Shelia,Juarez,Female,Japan,PROD108,Fitbit Versa 3,Electronics,2,229,ORD10082,Delivered,PayPal,3,bad
+CUST2089,Carrie,Myers,Female,Japan,PROD104,Nike Air Max,Apparel,2,120,ORD10083,Shipped,Cash on Delivery,1,good
+CUST4354,Kristin,Silva,Other,Germany,PROD103,Levi's Jeans,Apparel,2,59,ORD10084,Delivered,Cash on Delivery,1,very bad
+CUST5300,Laura,Kerr,Male,China,PROD101,Samsung Galaxy S23,Electronics,2,899,ORD10085,Pending,Cash on Delivery,1,good
+CUST3660,Christina,Christensen,Male,India,PROD109,Kindle Paperwhite,Books,4,129,ORD10086,Returned,PayPal,3,good
+CUST5297,Tiffany,Hatfield,Female,India,PROD101,Samsung Galaxy S23,Electronics,4,899,ORD10087,Shipped,Credit Card,2,average
+CUST4458,Anthony,Romero,Other,Japan,PROD104,Nike Air Max,Apparel,2,120,ORD10088,Cancelled,Cash on Delivery,3,good
+CUST2896,Michael,Smith,Other,China,PROD113,Wilson Tennis Racket,Sports,3,149,ORD10089,Pending,Cash on Delivery,5,bad
+CUST3739,Brandon,Lopez,Other,India,PROD102,Sony Headphones,Electronics,2,199,ORD10090,Returned,PayPal,5,very good
+CUST1832,Lisa,Reese,Other,India,PROD102,Sony Headphones,Electronics,5,199,ORD10091,Delivered,Credit Card,5,very good
+CUST1647,Kent,Kelley,Other,France,PROD114,Yoga Mat,Sports,4,25,ORD10092,Cancelled,PayPal,2,good
+CUST1807,Howard,Mason,Female,Canada,PROD113,Wilson Tennis Racket,Sports,2,149,ORD10093,Returned,Credit Card,2,very good
+CUST4296,Jeremy,Summers,Male,France,PROD104,Nike Air Max,Apparel,3,120,ORD10094,Pending,Credit Card,2,bad
+CUST1254,William,Giles,Male,Germany,PROD105,Adidas Running Shoes,Apparel,3,110,ORD10095,Shipped,Credit Card,5,average
+CUST1033,Randy,Anderson,Female,Japan,PROD114,Yoga Mat,Sports,2,25,ORD10096,Shipped,Credit Card,4,average
+CUST1698,Jennifer,Boyd,Female,Germany,PROD103,Levi's Jeans,Apparel,1,59,ORD10097,Returned,Credit Card,4,bad
+CUST2386,Christina,Howell,Other,Germany,PROD101,Samsung Galaxy S23,Electronics,5,899,ORD10098,Cancelled,Credit Card,5,very good
+CUST3511,Danielle,Campbell,Other,France,PROD110,Harry Potter Box Set,Books,1,80,ORD10099,Shipped,PayPal,3,bad
+CUST4247,Dustin,Perry,Other,India,PROD107,Dyson Vacuum,Home & Kitchen,2,399,ORD10100,Shipped,Cash on Delivery,4,bad
+CUST1711,Joann,Jacobs,Female,Germany,PROD107,Dyson Vacuum,Home & Kitchen,1,399,ORD10101,Pending,Credit Card,5,bad
+CUST4202,Mark,Brown,Other,Brazil,PROD112,Barbie Dreamhouse,Toys,1,199,ORD10102,Returned,Credit Card,1,average
+CUST2644,April,Lee,Male,UK,PROD111,Lego Star Wars Set,Toys,2,59,ORD10103,Cancelled,Credit Card,1,average
+CUST4536,Lisa,Mathews,Female,USA,PROD104,Nike Air Max,Apparel,5,120,ORD10104,Shipped,Cash on Delivery,2,very bad
+CUST4165,Mitchell,Contreras,Female,Germany,PROD108,Fitbit Versa 3,Electronics,1,229,ORD10105,Delivered,Credit Card,2,bad
+CUST1925,Joshua,Hardy,Male,Brazil,PROD114,Yoga Mat,Sports,4,25,ORD10106,Cancelled,Credit Card,5,bad
+CUST4417,Brenda,Duke,Male,Brazil,PROD103,Levi's Jeans,Apparel,4,59,ORD10107,Returned,PayPal,5,bad
+CUST2226,Desiree,Walton,Male,China,PROD114,Yoga Mat,Sports,1,25,ORD10108,Delivered,Credit Card,4,very bad
+CUST3865,Kimberly,Figueroa,Other,China,PROD110,Harry Potter Box Set,Books,2,80,ORD10109,Shipped,Credit Card,1,good
+CUST4945,Christine,Barton,Other,Germany,PROD101,Samsung Galaxy S23,Electronics,5,899,ORD10110,Cancelled,PayPal,2,very good
+CUST2427,Lisa,Lopez,Other,China,PROD103,Levi's Jeans,Apparel,4,59,ORD10111,Shipped,Cash on Delivery,1,very good
+CUST4196,Maria,Miller,Other,Germany,PROD102,Sony Headphones,Electronics,1,199,ORD10112,Pending,Cash on Delivery,5,bad
+CUST3804,Rebecca,Herrera,Other,India,PROD103,Levi's Jeans,Apparel,3,59,ORD10113,Delivered,PayPal,2,good
+CUST4589,Colleen,Stevens,Female,Japan,PROD108,Fitbit Versa 3,Electronics,2,229,ORD10114,Shipped,PayPal,2,very good
+CUST4582,Melanie,Williams,Female,Germany,PROD114,Yoga Mat,Sports,2,25,ORD10115,Returned,Credit Card,2,good
+CUST5308,Harold,Ruiz,Other,USA,PROD110,Harry Potter Box Set,Books,1,80,ORD10116,Cancelled,PayPal,1,bad
+CUST5920,Paul,Anderson,Female,China,PROD112,Barbie Dreamhouse,Toys,2,199,ORD10117,Shipped,PayPal,1,good
+CUST5795,Amy,Shepard,Other,China,PROD101,Samsung Galaxy S23,Electronics,1,899,ORD10118,Pending,Credit Card,5,average
